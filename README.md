@@ -1,4 +1,4 @@
-# 🏥 Hospital Management System
+# 🏥 Hospital Mangement System
 
 This project is a simplified Hospital Management System designed to manage essential hospital information, including patient and doctor registration and login functionality. It serves as a foundational platform for securely accessing and maintaining key data in a healthcare environment.
 
